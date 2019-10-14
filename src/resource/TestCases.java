@@ -1,5 +1,8 @@
 package resource;
 
+/**
+ * Class which stores test cases.
+ */
 public class TestCases {
 
     public static final int[][] input = new int[][]{
@@ -20,7 +23,7 @@ public class TestCases {
             { 924, 622, 911, 233, 325, 139, 721, 218, 253, 223, 107, 233, 230, 124, 233}
     };
 
-    public static final int[][] input1 = new int[][]{ // 15
+    public static final int[][] input1 = new int[][]{ // 15 1,2,1,2,9
             { 1, 0, 0, 0, 0},
             { 2, 1, 0, 0, 0},
             { 3, 1, 2, 0, 0},
@@ -28,7 +31,7 @@ public class TestCases {
             { 3, 5, 6, 9, 1}
     };
 
-    public static final int[][] input2 = new int[][]{ // 17
+    public static final int[][] input2 = new int[][]{ // 17 1,2,1,2,11
             { 1, 0, 0, 0, 0},
             { 2, 1, 0, 0, 0},
             { 3, 1, 2, 0, 0},
@@ -36,20 +39,20 @@ public class TestCases {
             { 3, 5, 11, 9, 1}
     };
 
-    public static final int[][] input3 = new int[][]{ // 4
+    public static final int[][] input3 = new int[][]{ // 4 1,2,1
             { 1, 0, 0},
             { 2, 1, 0},
             { 1, 1, 2},
     };
 
-    public static final int[][] input4 = new int[][]{ // 10
+    public static final int[][] input4 = new int[][]{ // 10 1,2,1,6
             { 1, 0, 0, 0},
             { 2, 1, 0, 0},
             { 1, 1, 2, 0},
             { 1, 1, 6, 1}
     };
 
-    public static final int[][] input5 = new int[][]{ // 11
+    public static final int[][] input5 = new int[][]{ // 11 1,2,1,6,1
             { 1, 0, 0, 0, 0},
             { 2, 1, 0, 0, 0},
             { 1, 1, 2, 0, 0},
@@ -66,7 +69,7 @@ public class TestCases {
             { 2, 2, 6, 1, 5, 0}
     };
 
-    public static final int[][] input7 = new int[][]{ // 17
+    public static final int[][] input7 = new int[][]{ // 17 1,2,1,6,5,2
             { 1, 0, 0, 0, 0, 0},
             { 2, 2, 0, 0, 0, 0},
             { 1, 1, 2, 0, 0, 0},

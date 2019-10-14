@@ -3,7 +3,6 @@ import utils.AccessPropertiesUtil;
 import utils.Result;
 
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.util.*;
 
 import static helpers.SumOfPyramidHelper.*;
